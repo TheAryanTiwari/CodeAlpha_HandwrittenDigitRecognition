@@ -1,7 +1,7 @@
 # CodeAlpha_HandwrittenDigitRecognition
 Handwritten digit recognition using CNN and MNIST dataset
 
- # Handwritten Digit Recognition 🧠✍️
+ # Handwritten Digit Recognition 
 
 Built a Convolutional Neural Network (CNN) to recognize handwritten digits using the MNIST dataset.
 
